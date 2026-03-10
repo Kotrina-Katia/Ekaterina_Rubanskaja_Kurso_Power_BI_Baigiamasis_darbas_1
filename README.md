@@ -1,2 +1,29 @@
-# Ekaterina_Rubanskaja_Kurso_Power_BI_Baigiamasis_darbas_1
+# Ekaterina Rubanskaja. Kurso Power BI Baigiamasis darbas 1
+
 Ši ataskaita yra išsami klientų pritraukimo kampanijos analizės ataskaitų suvestinė. Tai yra baigiamoji BI analitikos specialybės Power BI kurso užduotis.
+
+## Darbo užduotis:
+
+	Pateikti kelius dašbordus MS Power BI sistemoje ir, remiantis jomis, padaryti išvadas, kaip kitą kartą efektyviau vykdyti panašią reklamos kampaniją.
+	Remdamiesi rezultatais, reikia pristatyti ir patarti klientams, kuris kanalas buvo efektyviausias ir kuriuos kanalus bei kokiu kiekiu reikėtų naudoti kito paleidimo metu.
+	Dašbordas turėtų atsakyti į toliau pateiktas hipotezes, tačiau neapsiribokite vien jomis. Kuo daugiau atsakymų pateiks prietaisų skydelis, tuo sėkmingesnis jis bus kliento požiūriu.
+
+1. Kurie trys kanalai yra patraukliausi pagal kainą ir galutinius rezultatus?
+2. Ar verta naudoti mokamą srautą, ar pakanka apriboti jo naudojimą kaip filialų?
+3. Kuris kūrybinis projektas pritraukė daugiausia srauto?
+4. Kas buvo geriausias potencialių klientų pritraukimo vadybininkas?
+
+---
+
+	Ši ataskaita yra išsami klientų pritraukimo kampanijos analizės ataskaitų suvestinė. Tai yra baigiamoji BI analitikos specialybės Power BI kurso užduotis.
+	Ataskaitoje atsispindi reklamos kampanijos efektyvumas. Duomenys pateikiami įvairiuose pjūviuose, piltuvėliuose, matricose, skritulinėse diagramose, histogramose ir kortelėse. Kad būtų lengviau naršyti, kiekviename puslapyje, išskyrus patarimų puslapį, yra naršyklė. Puslapiuose "Išsami analizė" ir "Reklamos šaltiniai" matricose duomenys paryškinti šviesoforu, o procentiniai duomenys rodomi kaip mini histogramos. Tai padeda daryti tikslias išvadas apie šaltinių efektyvumą net peržiūros etape. 
+	Ataskaitoje yra šie puslapiai: "Navigatorius", "Piltuvėlis", "Išsami analizė", "Reklamos šaltiniai", "Dinamika", "Išvados" ir "Patarimas".
+
+  ## Išvados:
+
+1. Naudodami „Piltuvėlio“ puslapyje esančią skritulinę diagramą „Kanalų analizė. Potencialūs klientai“, nustatėme tris pagrindinius įgijimo kanalus: parthnier (32,7 % potencialių klientų), social (23,7 % potencialių klientų) ir cpc (21,7 % potencialių klientų). Taigi, mokami kanalai sudaro 21,7 % visų potencialių klientų. Efektyviausias iš jų yra „Yandex.com“.Jam tenka 52,3 % visų mokamų potencialių klientų („Analitika. mokamas kanalas" puslapyje "Piltuvėlis"), o mažiausia vieno potencialaus kliento kaina – 47 rubliai („Analitika pagal kanalą" kaina už potencialų klientą puslapyje "Piltuvėlis"). „Google“ (tie patys šaltiniai) yra mažiausiai efektyvi – 11,6 % visų mokamų potencialių klientų, o didžiausia vieno potencialaus kliento kaina – 425 rubliai.
+2. Mokamas srautas yra prasmingas, nes jų potencialių klientų kainos (matrica puslapyje „Išsami analizė“ ir matrica puslapyje „Reklamos šaltiniai“) yra palyginamos su vadybininkų kainomis („Vadybininkai pagal efektyvumo rodiklius" histograma pjūvėje "Potencialių klientų vertė“ puslapyje „Reklamos šaltiniai“), o „Yandex“ potencialių klientų kainos yra dar žymiai mažesnės, ypač „Yandex Advertising Search“ – 5,33 rublio. Ir jie generuoja didelę potencialių klientų dalį – 21,7 % („Šaltinių analitika. Potencialūs klientai“ puslapyje „Piltuvėlis“).
+3. Keletas kūrybingų projektų išsiskyrė srauto pritraukimo požiūriu (žr. matricą puslapyje „Reklamos šaltiniai“). Ryškiausia buvo „Yandex Reklama (YAN)" "Ретаргетинг Медийка". Jų paspaudimų ir potencialių klientų rodiklis siekė stulbinančius 550 %. Stebina tai, kad jis viršija 100 %. Rekomenduočiau dar kartą patikrinti duomenis. Jie turėjo tik 2 paspaudimus iš 1625 parodymų, bet net 10 seansų, 45 potencialius klientus ir 11 konvertuotų potencialių klientų. CTR taip pat žemas – 0,12 %. Kiti „Yandex Reklama (YAN)" kūriniai taip pat yra gana geri. „Поиск Москва Питер“ ir „Поиск Россия“ taip pat išsiskiria. Jų paspaudimų ir potencialių klientų rodikliai yra atitinkamai 40,74 % ir 84,62 %. Didžiausi po "Ретаргетинг Медийка".Jų parodymų, paspaudimų ir sesijų skaičiai yra raudonojoje zonoje, o tai reiškia, kad jie yra maži, tačiau potencialių klientų ir konvertuotų potencialių klientų skaičiai yra žaliojoje zonoje. Apskritai, esant mažam parodymų, paspaudimų ir sesijų skaičiui, visos „Yandex Reklamos paieškos" ir „Yandex Reklama YAN" yra labai veiksmingos. Jų bendros išlaidos yra žaliojoje zonoje. GDN_MSK_SPB_audience taip pat išsiskiria, turėdama didžiausią CTR – 3,93 %, nes su santykinai nedideliu parodymų skaičiumi – 17319, jie turėjo net 681 paspaudimą – didžiausią skaičių visame sraute ir tuo pačiu mažiausią paspaudimo kainą – 3,16 rublio, tačiau tuo pačiu metu didžiausia Atliktos užduoties kaina yra 2150,15 rublių. Buvo daug sesijų – 722, sesijos kaina yra mažiausia – 2,98 rublių, yra tik 10 potencialių klientų ir tik 1 konvertuotas potencialus klientas, o tada paspaudimų ir potencialių klientų santykis yra 0,15 %. Todėl GDN_MSK_SPB_audience šaltinį pavadinčiau neigiamu. Apskritai, tokie šaltiniai kaip „Google VRT skelbimai“, „Google Reklamos paieška“ ir „My Target Reklama“ yra silpni, jų paspaudimų ir potencialių klientų santykis yra mažesnis nei vidutinis – 2,83 %. Todėl kūrybiškiausias šaltinis buvo „Yandex“: „Yandex Reklamos paieška“ ir „Yandex Reklama (YAN)“.
+4. Pirmiausia norėčiau paminėti vadybininkę Viktoriją, kuri per nagrinėjamą laikotarpį nieko nepasiekė (grafikas puslapyje "Dinamika", Viktorijos skiltyje). Greičiausiai ji ką tik prisijungė prie komandos arba tuo metu sirgo ar atostogavo. Remiantis "Vadybininkai pagal efektyvumo rodiklius" histograma puslapyje „Reklamos šaltiniai“, efektyviausiu vadybininku laikyčiau Petrą Petrovą. Jo potencialių klientų konversijos rodiklis yra didžiausias – 0,28 %. Taip pat aktyviausiu laikyčiau Aleksejų Sidorovą, turintį daugiausiai potencialių klientų (164) ir mažiausią kainą už potencialų klientą (100 rublių).
+
+	Visos išvados taip pat pilnai ir išsamiai pateikti puslapyje „Išvados“.
